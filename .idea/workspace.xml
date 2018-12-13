@@ -2,61 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c9176d4-dcdc-476c-b262-202c7b15ce06" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/team/kk/source/net.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/team/kk/source/net.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/team/yzq/net/Starter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/Interface/ChannelManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/Interface/LogicalNodeTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/Interface/ShortChannelTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/Interface/TreeChannelTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/app/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/constant/ChannelStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/constant/Regex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/AddressPrefix$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/AddressPrefix$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/AddressPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/AddressSuffix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/Data.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/LogicalNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/modules/TransmitSimulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/net/Starter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/tables/ShortTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/net/pers/yzq/tables/ShortTableMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/controller/NetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/controller/NetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/frame/NetFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/frame/NetFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/frame/NetNodeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/frame/NetNodeFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/frame/ReceivedFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/frame/ReceivedFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/mode/DataNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/mode/DataNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/mode/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/mode/Line.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/mode/NetNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/mode/NetNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/utils/GraphicsHelpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/utils/GraphicsHelpUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/per/kk/utils/NetNodeHelp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/kk/utils/NetNodeHelp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/Interface/ChannelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/Interface/ChannelManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/Interface/LogicalNodeTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/Interface/LogicalNodeTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/Interface/Short.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/Interface/Short.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/Interface/ShortChannelTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/Interface/ShortChannelTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/Interface/TreeChannelTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/Interface/TreeChannelTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/constant/ChannelStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/constant/ChannelStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/constant/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/constant/Regex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/modules/AddressPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/modules/AddressPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/modules/AddressSuffix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/modules/AddressSuffix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/modules/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/modules/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/modules/LogicalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/modules/LogicalNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/modules/TransmitSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/modules/TransmitSimulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/net/Starter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/tables/ShortTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/tables/ShortTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/tables/ShortTableMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/tables/ShortTableMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/yzq/utils/ConfigHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/utils/ConfigHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/team/yzq/Interface/TreeChannelTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/team/yzq/Interface/TreeChannelTask.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,12 +46,66 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="NetNodeFrame.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/team/kk/frame/NetNodeFrame.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LogicalNodeTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/LogicalNodeTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="58" column="59" lean-forward="true" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+            <state relative-caret-position="132">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeChannelTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/TreeChannelTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShortChannelTask.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/ShortChannelTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShortTable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/tables/ShortTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1606">
+              <caret line="78" column="72" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShortTableMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/tables/ShortTableMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Starter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/net/Starter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransmitSimulation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/TransmitSimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -129,9 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pers/yzq/module/LogicalNodeWork.java" />
-        <option value="$PROJECT_DIR$/src/pers/yzq/module/TransmitSimulation.java" />
-        <option value="$PROJECT_DIR$/src/pers/yzq/module/LogicalNode.java" />
         <option value="$PROJECT_DIR$/src/pers/yzq/modules/AddressSuffix.java" />
         <option value="$PROJECT_DIR$/src/pers/yzq/Interface/LogicalNodeTask.java" />
         <option value="$PROJECT_DIR$/src/pers/yzq/modules/Data.java" />
@@ -174,12 +174,15 @@
         <option value="$PROJECT_DIR$/src/team/kk/frame/ReceivedFrame.java" />
         <option value="$PROJECT_DIR$/src/team/kk/Test.java" />
         <option value="$PROJECT_DIR$/src/team/kk/utils/NetNodeHelp.java" />
-        <option value="$PROJECT_DIR$/src/team/yzq/net/Starter.java" />
         <option value="$PROJECT_DIR$/src/team/kk/frame/NetFrame.java" />
         <option value="$PROJECT_DIR$/src/team/kk/mode/NetNode.java" />
         <option value="$PROJECT_DIR$/src/team/kk/controller/NetController.java" />
         <option value="$PROJECT_DIR$/src/team/kk/mode/DataNode.java" />
         <option value="$PROJECT_DIR$/src/team/kk/frame/NetNodeFrame.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/team/yzq/net/Starter.java" />
+        <option value="$PROJECT_DIR$/src/team/yzq/modules/LogicalNode.java" />
+        <option value="$PROJECT_DIR$/src/team/yzq/Interface/TreeChannelTask.java" />
       </list>
     </option>
   </component>
@@ -193,9 +196,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -205,92 +209,100 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="team" type="462c0819:PsiDirectoryNode" />
-              <item name="kk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="team" type="462c0819:PsiDirectoryNode" />
               <item name="kk" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
-              <item name="kk" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
-              <item name="kk" type="462c0819:PsiDirectoryNode" />
-              <item name="mode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
-              <item name="kk" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="team" type="462c0819:PsiDirectoryNode" />
               <item name="yzq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="net" type="b2602c69:ProjectViewProjectNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="team" type="462c0819:PsiDirectoryNode" />
               <item name="yzq" type="462c0819:PsiDirectoryNode" />
               <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+              <item name="yzq" type="462c0819:PsiDirectoryNode" />
+              <item name="tables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540199299724" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kk/3/net" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStorage" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -352,18 +364,29 @@
       <workItem from="1540167782268" duration="17915000" />
       <workItem from="1540203243193" duration="7241000" />
       <workItem from="1540215579862" duration="3326000" />
+      <workItem from="1540259323768" duration="373000" />
+      <workItem from="1540260196118" duration="66000" />
+      <workItem from="1540288504716" duration="3083000" />
+      <workItem from="1540294352242" duration="9000" />
+      <workItem from="1540552065702" duration="84000" />
+      <workItem from="1540736220763" duration="24000" />
+      <workItem from="1540823762918" duration="8000" />
+      <workItem from="1540823801534" duration="3704000" />
+      <workItem from="1540862004710" duration="5040000" />
+      <workItem from="1540878262433" duration="169000" />
+      <workItem from="1540895527730" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140676000" />
+    <option name="totallyTimeSpent" value="153249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.338843" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -371,11 +394,11 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34876034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.110410094" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2246596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22327965" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -389,33 +412,34 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.33753943" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34876034" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2246596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34876034" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16812228" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16812228" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.338843" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -433,9 +457,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pers/yzq/modules/DataTrace.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/net/modules/AddressSuffix.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/net/modules/AddressPrefix.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/constant/ChannelStatus.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/Interface/ShortChannelTask.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/tables/ShortTableMap.java" />
@@ -444,15 +465,12 @@
     <entry file="file://$PROJECT_DIR$/src/team/net/app/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/team/yzq/constant/ChannelStatus.java" />
     <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/Short.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/LogicalNodeTask.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/ChannelManager.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/modules/TransmitSimulation.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/modules/LogicalNode.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/utils/ConfigHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/team/net/net/Starter.java" />
     <entry file="file://$PROJECT_DIR$/src/team/kk/mode/Line.java" />
     <entry file="file://$PROJECT_DIR$/src/team/kk/utils/GraphicsHelpUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/TransmitSimulation.java" />
     <entry file="jar://E:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/AbstractButton.java" />
@@ -460,18 +478,14 @@
     <entry file="file://$PROJECT_DIR$/src/team/yzq/app/Main.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Window.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/tables/ShortTableMap.java" />
     <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/AddressSuffix.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/AddressPrefix.java" />
     <entry file="file://$PROJECT_DIR$/../net底层/net/src/pers/yzq/modules/LogicalNode.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.029.2525/HZ$D.029.2526/net/src/pers/yzq/modules/LogicalNode.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.029.2525/HZ$D.029.2527/net/src/pers/yzq/net/Starter.java" />
     <entry file="file://E:/研究生/研一/面向对象技术/S201861422/src/gui/Window.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/LogicalNode.java" />
     <entry file="file://$PROJECT_DIR$/src/team/yzq/constant/Regex.java" />
     <entry file="file://$PROJECT_DIR$/../Students Scores Management System/src/gui/FlyWindow.java" />
     <entry file="file://$PROJECT_DIR$/src/team/yzq/utils/ConfigHelper.java" />
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/tables/ShortTable.java" />
     <entry file="file://$PROJECT_DIR$/src/team/kk/frame/ReceivedFrame.java" />
     <entry file="file://$PROJECT_DIR$/src/team/kk/Test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -480,67 +494,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/team/kk/source/net.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="jar://E:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JOptionPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
-          <caret line="854" column="17" selection-start-line="854" selection-start-column="13" selection-end-line="854" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/team/yzq/net/Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="114" column="14" lean-forward="true" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/swing/JOptionPane.java" />
     <entry file="file://$PROJECT_DIR$/src/team/kk/mode/NetNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1228#1229#0" expanded="true" />
-            <element signature="e#1253#1254#0" expanded="true" />
-            <element signature="e#1277#1278#0" expanded="true" />
-            <element signature="e#1302#1303#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
-            <element signature="e#1366#1367#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1429#1430#0" expanded="true" />
-            <element signature="e#1455#1456#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
-            <element signature="e#1569#1570#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
-            <element signature="e#1628#1629#0" expanded="true" />
-            <element signature="e#1669#1670#0" expanded="true" />
-            <element signature="e#1703#1704#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -574,8 +535,113 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/team/kk/frame/NetNodeFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="58" column="59" lean-forward="true" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+        <state relative-caret-position="290">
+          <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/LogicalNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3163">
+          <caret line="165" column="41" lean-forward="true" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="41" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
+            <element signature="e#1526#1527#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/AddressPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="77" column="32" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/tables/ShortTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="78" column="72" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/tables/ShortTableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/ChannelManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/net/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/modules/TransmitSimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/LogicalNodeTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/ShortChannelTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/team/yzq/Interface/TreeChannelTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>

@@ -16,5 +16,5 @@ public interface TreeChannelTask {
 
     void dataCode(AddressPrefix addressPrefix);         //扩展包头
 
-    void dataDecode();              //拆解包头
+        void dataDecode();              //拆解包头
 }
